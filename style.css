@@ -1,0 +1,12 @@
+canvas
+{
+    background-color: aqua;
+    margin-top: 20px;
+    color: blue;
+    box-shadow: 10px rgb(84, 214, 237);
+}
+button
+{
+    background-color: white;
+    margin-top: 38px;
+}
